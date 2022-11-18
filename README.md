@@ -1,5 +1,5 @@
 # Cross-Modal-Adapter
-<p align="center"> <img src='imgs/figure1.png' align="center" height="250px"> </p>
+<p align="center"> <img src='imgs/figure1.png' align="center" width="650px"> </p>
 
 This repository wiil be the official Pytorch implementation for Cross-Modal Adapter. 
 
