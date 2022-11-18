@@ -3,8 +3,6 @@
 
 This repository wiil be the official Pytorch implementation for Cross-Modal Adapter. 
 
-> Title: [**Cross-Modal Adapter for Text-Video Retrieval**](https://arxiv.org/abs/2211.09623)  
-> Authors: [Haojun Jiang](https://scholar.google.com/citations?user=ULmStp8AAAAJ&hl=en), Jianke Zhang, [Rui Huang](https://scholar.google.com/citations?user=ieN4b1QAAAAJ&hl=en&oi=sra), [Chunjiang Ge](https://scholar.google.com/citations?user=ZueTF6oAAAAJ&hl=en&oi=ao), [Zanlin Ni](https://scholar.google.com/citations?user=Yibz_asAAAAJ&hl=en&oi=ao), [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en&oi=ao), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&oi=ao), [Shiji Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en&oi=ao), [Gao Huang](https://scholar.google.com/citations?user=-P9LwcgAAAAJ&hl=en&oi=ao)  
 > Title: [**Cross-Modal Adapter for Text-Video Retrieval**](https://arxiv.org/abs/2211.09623),  
 > Authors: [Haojun Jiang](https://scholar.google.com/citations?user=ULmStp8AAAAJ&hl=en), Jianke Zhang, [Rui Huang](https://scholar.google.com/citations?user=ieN4b1QAAAAJ&hl=en&oi=sra), [Chunjiang Ge](https://scholar.google.com/citations?user=ZueTF6oAAAAJ&hl=en&oi=ao), [Zanlin Ni](https://scholar.google.com/citations?user=Yibz_asAAAAJ&hl=en&oi=ao), [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en&oi=ao), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&oi=ao), [Shiji Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en&oi=ao), [Gao Huang](https://scholar.google.com/citations?user=-P9LwcgAAAAJ&hl=en&oi=ao).  
 > Publication: *arXiv preprint ([arXiv 2211.09623](https://arxiv.org/abs/2211.09623))*  
