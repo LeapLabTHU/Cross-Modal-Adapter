@@ -24,16 +24,16 @@ In this paper, we present a novel Cross-Modal Adapter for parameter-efficient fi
 <p align="center"> <img src='imgs/figure2.png' align="center" width="800px"> </p>
 
 ## Results
-**1. Text2video and video2text retrieval resutls on MSR-VTT.**
+#### 1.Text2video and video2text retrieval resutls on MSR-VTT.
 <p align="center"> <img src='imgs/msrvtt.png' align="center" width="800px"> </p>
 
-**2. Text2video and video2text retrieval resutls on MSVD, VATEX, DiDeMo, and ActivityNet.**
+#### 2. Text2video and video2text retrieval resutls on MSVD, VATEX, DiDeMo, and ActivityNet.
 <p align="center"> <img src='imgs/other_four.png' align="center" width="800px"> </p>
 
-**3. Training and memory efficiency.**
+#### 3. Training efficiency.
 <p align="center"> <img src='imgs/efficiency_8gpu.png' align="center" width="800px"> </p>
 
-**4. Visualizations.**
+#### 4. Visualizations.
 <p align="center"> <img src='imgs/visualization.png' align="center" width="800px"> </p>
 
 ## Acknowledgment
