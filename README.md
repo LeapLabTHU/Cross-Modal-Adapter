@@ -1,7 +1,7 @@
 # Cross-Modal-Adapter
 <p align="center"> <img src='imgs/figure1.png' align="center" width="650px"> </p>
 
-This repository wiil be the official Pytorch implementation for Cross-Modal Adapter. 
+This repository will be the official Pytorch implementation for Cross-Modal Adapter. 
 
 > **Title**:&emsp;&emsp;[**Cross-Modal Adapter for Text-Video Retrieval**](https://arxiv.org/abs/2211.09623)  
 > **Authors**:&nbsp;&nbsp;[Haojun Jiang](https://scholar.google.com/citations?user=ULmStp8AAAAJ&hl=en), Jianke Zhang, [Rui Huang](https://scholar.google.com/citations?user=ieN4b1QAAAAJ&hl=en&oi=sra), [Chunjiang Ge](https://scholar.google.com/citations?user=ZueTF6oAAAAJ&hl=en&oi=ao), [Zanlin Ni](https://scholar.google.com/citations?user=Yibz_asAAAAJ&hl=en&oi=ao)  
