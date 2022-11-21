@@ -22,7 +22,7 @@ This repository will be the official Pytorch implementation for Cross-Modal Adap
  -->
 
 ## Overview
-In this paper, we present a novel Cross-Modal Adapter for parameter-efficient fine-tuning. Although surprisingly simple, our approach has three notable benefits: (1) reduces 99.6% of fine-tuned parameters, and alleviates the problem of overfitting, (2) saves approximately 30% of training time, and (3) allows all the pre-trained parameters to be fixed, enabling the pre-trained model to be shared across datasets.
+In this paper, we present a novel Cross-Modal Adapter for parameter-efficient fine-tuning. Although surprisingly simple, our approach has three notable benefits: (1) reduces **99.6%** of fine-tuned parameters, and alleviates the problem of overfitting, (2) saves approximately **30%** of training time, and (3) allows all the pre-trained parameters to be fixed, enabling the pre-trained model to be shared across datasets.
 
 <p align="center"> <img src='imgs/figure2.png' align="center" width="800px"> </p>
 
