@@ -7,7 +7,7 @@ This repository will be the official Pytorch implementation for Cross-Modal Adap
 > **Authors**:&nbsp;&nbsp;[Haojun Jiang](https://scholar.google.com/citations?user=ULmStp8AAAAJ&hl=en), [Jianke Zhang](https://scholar.google.com/citations?user=6is33pIAAAAJ&hl=en&oi=ao), [Rui Huang](https://scholar.google.com/citations?user=ieN4b1QAAAAJ&hl=en&oi=sra), [Chunjiang Ge](https://scholar.google.com/citations?user=ZueTF6oAAAAJ&hl=en&oi=ao), [Zanlin Ni](https://scholar.google.com/citations?user=Yibz_asAAAAJ&hl=en&oi=ao), [Shiji Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en&oi=ao), [Gao Huang](https://scholar.google.com/citations?user=-P9LwcgAAAAJ&hl=en&oi=ao)  
 > **Institute**: Tsinghua University and Beijing Institute of Technology  
 > **Publish**:&nbsp;&nbsp;&nbsp;Pattern Recognition 2025 (IF=7.6) [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0031320324008951)]  
-> **Contact**:&nbsp;&nbsp;jianghaojunthu at 163 dot com
+> **Contact**:&nbsp;&nbsp;jianghaojunthu at 163 dot com / jhj20 at mails dot tsinghua dot edu dot cn
 
 <!-- 
 ## BibTex
